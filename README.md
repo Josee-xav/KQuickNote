@@ -1,3 +1,8 @@
+I added automatic sliding to the next note
+made scrollbar work how it should.
+
+
+
 # KQuickNote
 
 Simple yet powerful note-taking widget for KDE Plasma 6. Create and manage your notes with Markdown support, auto-save feature, and quick access from system tray.
