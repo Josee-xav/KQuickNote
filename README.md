@@ -2,7 +2,7 @@ I added automatic sliding to the next note
 
 made scrollbar work how it should.
 
-
+I use it for my wacky ideas rather than having a million stickynote widgets i just have one widget that slides to the next wakcky idea then the next wcaky idea then the next
 
 # KQuickNote
 
