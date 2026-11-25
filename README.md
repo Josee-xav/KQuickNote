@@ -22,10 +22,7 @@ Simple yet powerful note-taking widget for KDE Plasma 6. Create and manage your 
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/860bf844-3447-42f0-b880-8cf7bf38dd85" alt="Preview 1" width="400">
-  <img src="https://github.com/user-attachments/assets/55236953-1610-40b3-913a-07cd5cd59446" alt="Preview 2" width="400">
-</div>
+Looks a lil different.......  i honestly cba uploading images and then linking it
 
 ## 🚀 Installation
 
