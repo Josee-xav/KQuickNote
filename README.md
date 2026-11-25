@@ -1,4 +1,5 @@
 I added automatic sliding to the next note
+
 made scrollbar work how it should.
 
 
