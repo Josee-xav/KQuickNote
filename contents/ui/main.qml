@@ -343,6 +343,7 @@
                                         ScrollBar.vertical.policy: ScrollBar.AsNeeded
 
                                         TextArea {
+                                            textFormat: TextEdit.MarkdownText
                                             text: root.currentIndex >= 0
                                             ? notesModel.get(root.currentIndex).content : ""
                                             wrapMode: TextEdit.WordWrap
